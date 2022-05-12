@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269168914384",
+    "firebase_url": "https://sample-60351-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sample-60351",
+    "storage_bucket": "sample-60351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269168914384:android:11e7d0af56b774bef393d5",
+        "android_client_info": {
+          "package_name": "com.example.smarty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269168914384-m1uqc99h1qsq90khkis40dfhe63s45au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA4VU9CTelBy-0VU6jyPnCkSOaAlsUCtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269168914384-m1uqc99h1qsq90khkis40dfhe63s45au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
